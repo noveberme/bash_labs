@@ -1,0 +1,2 @@
+       -r, --reverse
+              reverse order while sorting
